@@ -9,5 +9,5 @@ This project is for fun and aims to explore interesting topics in programming us
     
 I chose to use betting rather than stocks in this project due to the big hype it has stirred up in my region(EAST AFRICA) over the last few year. 
 Hope you can use this as a tool to learn rather than gamble.
-but just in case this fell on deaf ears ... <h2> GAMBLE WITH CAUTION !!! <h2>
+But just in case this fell on deaf ears ... <h2> GAMBLE WITH CAUTION !!! <h2>
 PS. This isn't foul-proof hence I am not liable to anyone loosing money if you gamble using this software.
